@@ -1,8 +1,7 @@
 # TerraMind AI: Landslide Prediction & Early Warning System
 
 [![Status: Design Proposal](https://img.shields.io/badge/Status-Design%20Proposal-blue)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+[![Project: ShailungLandslide](https://img.shields.io/badge/Project-ShailungLandslide-blue)]()
 **A comprehensive design proposal for a novel, low-cost landslide early warning system, combining machine learning, IoT, and drone technology. This repository details the architecture, technology selection, and implementation plan.**
 
 ---
