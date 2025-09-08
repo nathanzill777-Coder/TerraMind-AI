@@ -6,6 +6,8 @@
 
 ---
 
+
+
 ## 📖 Table of Contents
 - [Problem Statement](#-problem-statement)
 - [Proposed Solution](#-proposed-solution)
@@ -22,8 +24,8 @@
 ## 🚨 Problem Statement
 
 Current landslide Early Warning Systems (EWS) have significant limitations:
-1.  **No Real-Time Prediction:** Relies on rainfall thresholds, lacking real-time ground truth data.
-2.  **Prohibitively Expensive:** High-cost geotechnical sensors make large-scale deployment infeasible.
+1.  **No Real-Time Prediction:** 
+2.  **Prohibitively Expensive:** 
 3.  **Dense Sensor Reliance:** Requires an impractical density of sensors for accurate monitoring, especially in remote areas.
 4.  **Internet Dependency:** Many modern systems require constant internet connectivity, which is unreliable in vulnerable regions.
 
@@ -100,7 +102,7 @@ Based on the design and research, this system is projected to:
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/yourusername) - Project Lead, Systems Architecture & Design
+- [NgawangTharchinSherpa] - Project Lead, Systems Architecture & Design
 
 ## 📜 License
 
